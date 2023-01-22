@@ -6,7 +6,7 @@ A toolset that allows work to be easily written and compiled in markdown.
 
 - [`pandoc`](https://pandoc.org/installing.html)
 - [`fswatch`](https://emcrisostomo.github.io/fswatch/getting.html)
-- [$\LaTeX$](https://www.latex-project.org/get/)
+- [LaTeX](https://www.latex-project.org/get/)
 
 ## Installation
 
