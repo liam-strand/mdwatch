@@ -44,3 +44,5 @@ export PATH="~/Desktop/mdwatch/bin:$PATH"
 ``` 
 
 This tells the shell to look in `~/Desktop/mdwatch/bin` when I try to run a command.
+
+test
